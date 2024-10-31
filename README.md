@@ -11,22 +11,22 @@ A simple FastAPI application to aggregate Medium articles by tags into a single 
 
 1. Clone the repository:
 
-   \`\`\`bash
+   ```bash
    git clone https://github.com/yourusername/medium-rss-aggregator.git
    cd medium-rss-aggregator
-   \`\`\`
+   ```
 
 2. Install dependencies:
 
-   \`\`\`bash
+   ```bash
    pip install -r requirements.txt
-   \`\`\`
+   ```
 
 3. Run the application:
 
-   \`\`\`bash
+   ```bash
    uvicorn app.main:app --reload
-   \`\`\`
+   ```
 
 ## Running with Docker
 
