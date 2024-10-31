@@ -12,7 +12,7 @@ A simple FastAPI application to aggregate Medium articles by tags into a single 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/medium-rss-aggregator.git
+   git clone https://github.com/Loke-60000/medium-rss-aggregator
    cd medium-rss-aggregator
    ```
 
